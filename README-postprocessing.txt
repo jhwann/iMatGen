@@ -7,5 +7,3 @@
 3. Combine cell and basis using 'combine_basis_cell.py'.
 
 4. Check overlapped position due to periodic boundary conditions using 'combined_pbc_chk.py'.
-
-5. Do final post-process for overlapped O using 'partially_occupied_O_remove.py'.
